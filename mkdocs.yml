@@ -3,8 +3,8 @@ site_url: https://stellarity.kohara.xyz/
 site_description: >-
   Wiki for the Stellarity project
 
-repo_url: https://github.com/kohy-creates/Stellarity
-repo_name: Stellarity on Github
+repo_url: https://github.com/koharas-Basement/Stellarity-Wiki
+repo_name: GitHub
 
 nav:
   - Home:
@@ -230,14 +230,11 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.kohara.xyz/
-      name: kohara's Discord Server
+      link: https://discord.gg/kohara
+      name: kohara's Basement Discord Server
     - icon: fontawesome/brands/github
-      link: https://github.com/kohy-creates
+      link: https://github.com/koharas-Basement
       name: kohara on GitHub
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UCRqeCM1qtK9R8f2Q8mCPJ1g
-      name: kohara's Youtube Channel
   generator: true
   analytics:
     provider: google
