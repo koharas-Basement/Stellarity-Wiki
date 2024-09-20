@@ -234,7 +234,7 @@ extra:
       name: kohara's Basement Discord Server
     - icon: fontawesome/brands/github
       link: https://github.com/koharas-Basement
-      name: kohara on GitHub
+      name: kohara's Basement on GitHub
   generator: true
   analytics:
     provider: google
