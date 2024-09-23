@@ -29,7 +29,7 @@
 	</tr>
 	<tr>
 		<td><b>Damage</b></td>
-		<td>5 (6 with both equipped)</td>
+		<td>5 (6 with The Beginning equipped in the offhand)</td>
 	</tr>
 	<tr>
 		<td><b>Attack Speed</b></td>
@@ -57,7 +57,7 @@
 	</tr>
 	<tr>
 		<td><b>Other</b></td>
-		<td>+1 Damage (while in offhand)</td>
+		<td>+1 Damage (The Beginning(offhand)), +5% Speed (The End(offhand)))</td>
 	</tr>
 </table>
 </div>
