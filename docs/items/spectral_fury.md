@@ -49,6 +49,8 @@
 
 ## Obtaining
 Spectral fury can be obtained by combining a [Sharanga](sharanga.md), 3 Diamonds, 8 Phantom Membranes and an [Enderite Upgrade Smithing Template](materials/enderite_smithing_template.md) on the [Altar of The Accursed](../mechanics/altar_of_the_accursed.md).
+### **WARNING!!!**
+Crafting the Spectral Fury doesnt transfer **enchantments** so make sure to use a spare [Sharanga](sharanga.md) for this!
 
 ## Usage
 When using <i class="icon-minecraft icon-minecraft-spectral-arrow"></i>Spectral Arrows as ammunition, shots charged for a total of 1.5 seconds or longer will instead shoot a Wisp. Wisps last for 7 seconds and slowly move forwards, homing in on any mob in a 16 block radius.

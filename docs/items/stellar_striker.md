@@ -47,7 +47,7 @@
 	</tr>
 	<tr>
 		<td><b>Durability</b></td>
-		<td>nah id win</td>
+		<td>TBA</td>
 	</tr>
 </table>
 </div>

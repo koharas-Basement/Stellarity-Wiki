@@ -6,6 +6,6 @@
 
 !!! danger "Here be dragons!"
 
-    Stellarity wiki is still work in progress! Not everything is covered yet and some information might be outdated.
+    Stellarity wiki is still work in progress! Not everything is covered yet and some information might be outdated and missing.
 
 ----------

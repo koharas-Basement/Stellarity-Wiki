@@ -2,7 +2,7 @@
 
 <div class="result kohara-infobox-grid" markdown>
 <div markdown class="kohara-infobox-text">
-**Tome of Jink** Is a spellbook that spawns a moving cloud that applies jinx to entities it touches.
+**Tome of Jinx** Is a spellbook that spawns a moving cloud that applies jinx to entities it touches.
 
 [TOC]
 

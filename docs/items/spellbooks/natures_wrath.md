@@ -45,7 +45,7 @@ Unobtainable becasue end trading doesnt work, but the intended obtainment is tha
 
 ## Usage
 ### Nature's Spirits
-Right-clicking shoots a slow Nature's Spirit, which automatically homes in on nearby enemies, dealing 4:heart::heart: damage. Spirits don't require any ammunition to be fired and they last for 1.5 seconds before disappearing. Spirits cannot home onto players in PvP and cannot damage <i class="icon-minecraft icon-minecraft-entity-wolf"></i>Wolves.
+Right-clicking shoots a slow Nature's Spirit, which automatically homes in on clicked enemies, dealing 4:heart::heart: - 12:heart: x ₆ of damage. Spirits don't require any ammunition to be fired and they last for 1.5 seconds before disappearing. Spirits cannot home onto players in PvP and cannot damage <i class="icon-minecraft icon-minecraft-entity-wolf"></i>Wolves.
 
 Visiting certain biomes **while holding Nature's Wrath in any hand** imbues it with a fraction of the biome's power, enchancing the Spirits and adding new types of Spirits which can be fired. The amount of Spirits different from the default one which Nature's Wrath can fire will from now on be referred to as `amount of Spirit Upgrades`.
 

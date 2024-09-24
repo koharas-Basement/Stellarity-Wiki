@@ -45,7 +45,7 @@ Eating a Duskberry curses the consumer, giving them Darkness, Slowness, Mining F
 
 They can also be planted. Anything passing through the bush will be cursed with previous debuffs.
 
-Duskberries can also be fed to Foxes. They won't be cursed, but poisoned instead, leaving them extremely vulnerable at 1:heart: x ₁/₂ HP.
+Duskberries can also be fed to Foxes. They won't be cursed, but poisoned instead, leaving them extremely vulnerable at 1:heart: x ₀.₅ HP.
 
 ## Tips
 - Duskberries are extremely useful for getting `How Did We Get Here?` advancement due to sheer amount of debuffs it gives at once.

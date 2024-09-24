@@ -39,6 +39,9 @@ Coming into contact with ground, any liquid or swapping items immedietaly stops 
 
 ## Tips 
 - Max horizontal flight speed is the same as base running speed and can't be increased.
+- How tf is that a tip ^^^
+- Very useful for builders if the build is far from the ground.
+- Sometimes better than an elytra from the slow flying speed.
 
 ## Trivia
 - This item is based on Soaring Insignia from Terraria.

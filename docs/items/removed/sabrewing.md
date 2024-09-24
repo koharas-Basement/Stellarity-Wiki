@@ -1,3 +1,8 @@
+!!! danger "Removed content"
+	This section describes content which has been removed or replaced. The information here does not apply to the current version of Stellarity.
+
+	**Removed in version:** 2.1a
+
 # Sabrewing
 
 <div class="result kohara-infobox-grid" markdown>

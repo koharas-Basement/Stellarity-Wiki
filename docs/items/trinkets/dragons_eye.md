@@ -25,11 +25,6 @@
 		These effects work only when held
         </td>
 	</tr>
-    <tr>
-		<td><b>Durability</b></td>
-		<td>:wow:
-        </td>
-	</tr>
 </table>
 </div>
 </div>

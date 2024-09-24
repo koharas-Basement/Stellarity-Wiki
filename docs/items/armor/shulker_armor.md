@@ -47,9 +47,9 @@ However, Shulker Armor comes with a drawback in form of reduced movement and att
 			<td>
 				Shulker Bullets will hunt down your attackers
 				<br>
-				Incoming damage reduced by 20%
+				Incoming damage reduced by 20% when swarmed
 				<br>
-				Immunity to Levitation and Wither
+				Immunity to Levitation and Weakness
 			</td>
 		</tr>
 	</table>
