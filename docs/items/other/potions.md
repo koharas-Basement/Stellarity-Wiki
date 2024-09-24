@@ -8,7 +8,8 @@ Stellarity adds various potions that can boost you in unique ways. This is a lis
 <br><br>
 
 ## Amarene
-"Looks like wine, but it really isn't *'forbidden juice'*"
+"Looks like wine, but it really isn't
+*'forbidden juice'*"
 <br>
 - Drinkable potion.
 <br>

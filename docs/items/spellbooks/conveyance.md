@@ -43,6 +43,7 @@ Right-clicking casts a slow spark which teleports its user to the first block it
 This has a cooldown of 16 seconds.
 
 ## Tips 
+- This spellbook is very usefull to get away from someone when you dont have enderpearls.
 - TBA
 
 ## Trivia

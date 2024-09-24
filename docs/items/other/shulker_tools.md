@@ -37,7 +37,7 @@
 	</tr>
 	<tr>
 		<td><b>Durability</b></td>
-		<td>2703</td>
+		<td>2701</td>
 	</tr>
 </table>
 </div>

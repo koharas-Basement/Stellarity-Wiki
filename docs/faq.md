@@ -32,6 +32,8 @@ In order to remove a worldgen pack without locking yourself out of your world/se
 
 **No.** It is just a datapack, so it isn't even physically possible for me to add a config file. I mean it would be if I learned Java, but I am too lazy to do that.
 
+*im working on a stellarity **mod** "fork" that may use that* - Progames723
+
 There is however a per-world configuration which allows one to edit a very limited amount of features. You can access it by doing
 ```properties
 /function stellarity:cmd/configuration

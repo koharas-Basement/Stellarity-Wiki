@@ -46,12 +46,15 @@
 ## Obtaining
 Upgrade a netherite pickaxe with 1 [Living Flesh](../trinkets/living_flesh.md) and 1 [Enderite Smithing Template](../materials/enderite_smithing_template.md) at the [Altar of the Accursed](../../mechanics/altar_of_the_accursed.md)
 Additionally, it has a 3% chance for zombified piglins in flesh tundras to be holding it.
+### **WARNING!!!**
+Crafting the Hematic Pickaxe doesnt transfer **enchantments** so make sure to use a spare pickaxe for this!
 
 ## Usage
 When stone is mined, there is a chance you can get extra loot. This includes flint, gunpowder, bones, coal, iron and gold nuggets, redstone, and lapis.
 
 ## Tips
-- Extra loot good loot
+- Really useful for short mining trips from the loot that it gives.
+- Try to mine different stone variations and see the loot yourself.
 
 ## History
 === "**2.2.0**"
